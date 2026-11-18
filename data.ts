@@ -1,5 +1,5 @@
 import type { IconName } from '@/components/icons/glyphs';
-
+//codeWithSam(2022)
 export type { IconName };
 
 /** Two-stop gradient, rendered at 135deg (top-left → bottom-right). */
