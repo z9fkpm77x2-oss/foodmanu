@@ -2,7 +2,7 @@ import { router } from 'expo-router';
 import { type ReactNode } from 'react';
 import { ScrollView, StyleSheet, View } from 'react-native';
 import { useShallow } from 'zustand/react/shallow';
-
+//codeWithSam(2022)
 import {
   ActiveOrderCard,
   BrandStrip,
